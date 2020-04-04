@@ -6,6 +6,10 @@
 // If you ever want a proper simulator, there are a few nice papers out there
 // Eg: SuReSIM, virtual-SMLM and TestSTORM
 
+// The example image used to generate the movie is based on a painting by
+// Frederick Dielman and can be found in: 
+// https://en.wikipedia.org/wiki/Frederick_Dielman
+
 nFrames = getNumber("Number of frames to simulate", 1000);
 nParticlesPerPixel = getNumber("Number of particles per pixel", 10);
 
